@@ -1,3 +1,3 @@
-![Сертификат](certificate.pdf)
+!(certificate.pdf)
 
 
