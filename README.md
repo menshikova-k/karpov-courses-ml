@@ -1,2 +1,3 @@
-![Сертификат](/certificate.pdf)
+![Сертификат](certificate.pdf)
+
 
