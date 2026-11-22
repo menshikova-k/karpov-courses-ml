@@ -1,4 +1,4 @@
-<img src="certificate.pdf" alt="Сертификат">
+<img width="800" height="567" alt="image" src="https://github.com/user-attachments/assets/a85f980e-c695-4cd3-ac77-56a07ea04e14" />
 
 Курс «Инженер машинного обучения» от Karpov Courses - семимесячная программа на 6 модулей, 69 уроков и больше 600 практических заданий. Ведут курс пятеро действующих специалистов, среди них руководители направления продвинутой аналитики Raiffeisen CIB и преподаватель ФКН НИУ ВШЭ и руководители отдела машинного обучения Яндекс Еды.
 Разбираются NumPy, Pandas, FastAPI, Git, PostgreSQL, SQLAlchemy и Airflow. Классическое машинное обучение: 24 урока и 10 недель (scikit-learn, CatBoost, lightGBM и рекомендательные системы).
